@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+   https://www.hackerrank.com/challenges/reverse-array-c
+ */
+
 int main()
 {
 	int num, *arr, i, temp;
